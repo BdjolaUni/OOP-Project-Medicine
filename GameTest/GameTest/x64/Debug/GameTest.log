@@ -1,0 +1,4 @@
+﻿  GameTest.cpp
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(926,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(926,26): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  GameTest.vcxproj -> D:\Programs\VStudio Projects\Uni\GameTest\x64\Debug\GameTest.exe
