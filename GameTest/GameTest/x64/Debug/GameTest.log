@@ -1,0 +1,7 @@
+﻿  GameTest.cpp
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(1108,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(1121,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(1134,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(1236,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\VStudio Projects\Uni\GameTest\GameTest\GameTest.cpp(1236,26): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  GameTest.vcxproj -> D:\Programs\VStudio Projects\Uni\GameTest\x64\Debug\GameTest.exe
