@@ -1,5 +1,5 @@
 # OOP-Project-Medicine
-My oop project, if you are my OOP professor, please check it
+My oop project, if you are my OOP professor, please check it.
 Hello, im Shenhur Kyrylo, glad that you spend your time checking my work.
 The project itself is a little minigame in which you are plaing as a Doctor that consulting patients remotely.
 (Because topic was medicine)
